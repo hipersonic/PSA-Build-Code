@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All</key>
+	<dict>
+		<key>81</key>
+		<string>Poissy France</string>
+		<key>82</key>
+		<string>Villaverde Spain</string>
+		<key>83</key>
+		<string>Ryton UK</string>
+		<key>85</key>
+		<string>Vesoul France</string>
+		<key>87</key>
+		<string>Eiv Poissy France</string>
+		<key>88</key>
+		<string>Mulhouse France</string>
+		<key>89</key>
+		<string>Sochaux France</string>
+		<key>U5</key>
+		<string>Pininfarina Italy</string>
+		<key>U8</key>
+		<string>Sevel Italy</string>
+		<key>U9</key>
+		<string>Sevel nord France</string>
+		<key>UT</key>
+		<string>Kolin Czech</string>
+		<key>CA</key>
+		<string>Aulnay France</string>
+		<key>CJ</key>
+		<string>Rennes France</string>
+		<key>FV</key>
+		<string>Vigo Spain</string>
+		<key>G8</key>
+		<string>Creil France</string>
+		<key>G9</key>
+		<string>Gennevilliere France</string>
+		<key>RE</key>
+		<string>Rennes France</string>
+	</dict>
+	<key>Names</key>
+	<array>
+		<string>Poissy France</string>
+		<string>Villaverde Spain</string>
+		<string>Ryton UK</string>
+		<string>Vesoul France</string>
+		<string>Eiv Poissy France</string>
+		<string>Mulhouse France</string>
+		<string>Sochaux France</string>
+		<string>Pininfarina Italy</string>
+		<string>Sevel Italy</string>
+		<string>Sevel nord France</string>
+		<string>Kolin Czech</string>
+		<string>Aulnay France</string>
+		<string>Rennes France</string>
+		<string>Vigo Spain</string>
+		<string>Creil France</string>
+		<string>Gennevilliere France</string>
+		<string>Rennes France</string>
+	</array>
+	<key>Build Codes</key>
+	<array>
+		<string>81</string>
+		<string>82</string>
+		<string>83</string>
+		<string>85</string>
+		<string>87</string>
+		<string>88</string>
+		<string>89</string>
+		<string>U5</string>
+		<string>U8</string>
+		<string>U9</string>
+		<string>UT</string>
+		<string>CA</string>
+		<string>CJ</string>
+		<string>FV</string>
+		<string>G8</string>
+		<string>G9</string>
+		<string>RE</string>
+	</array>
+</dict>
+</plist>

@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33020747184AA403000ABAA1 /* PSADateVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 33020746184AA403000ABAA1 /* PSADateVC.m */; };
+		5E8E856916AB046B00C05FD5 /* citroen-logo-140x105.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E855F16AB046B00C05FD5 /* citroen-logo-140x105.jpg */; };
+		5E8E856A16AB046B00C05FD5 /* citroen-logo-441x336.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856016AB046B00C05FD5 /* citroen-logo-441x336.jpg */; };
+		5E8E856B16AB046B00C05FD5 /* citroen_logo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856116AB046B00C05FD5 /* citroen_logo.jpeg */; };
+		5E8E856C16AB046B00C05FD5 /* citroen_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856216AB046B00C05FD5 /* citroen_logo.png */; };
+		5E8E856D16AB046B00C05FD5 /* citroen_logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856316AB046B00C05FD5 /* citroen_logo2.png */; };
+		5E8E856E16AB046B00C05FD5 /* citroen_old_logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856416AB046B00C05FD5 /* citroen_old_logo.jpg */; };
+		5E8E856F16AB046B00C05FD5 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856516AB046B00C05FD5 /* icon.png */; };
+		5E8E857016AB046B00C05FD5 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856616AB046B00C05FD5 /* icon@2x.png */; };
+		5E8E857116AB046B00C05FD5 /* logo-peugeot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856716AB046B00C05FD5 /* logo-peugeot.jpg */; };
+		5E8E857216AB046B00C05FD5 /* Peugeot_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E856816AB046B00C05FD5 /* Peugeot_logo.png */; };
+		5E8E857516AB04EE00C05FD5 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E857416AB04EE00C05FD5 /* icon.png */; };
+		5E8E857716AB052100C05FD5 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E857616AB052100C05FD5 /* icon@2x.png */; };
+		5EAAB86C17BCC91600A06CDE /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EAAB86B17BCC91600A06CDE /* QuartzCore.framework */; };
+		5EAAB86D17BCCA5700A06CDE /* JDFlipNumberView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EAAB86817BCC6FF00A06CDE /* JDFlipNumberView.m */; };
+		5EAAB86E17BCCABB00A06CDE /* JDDateCountdownFlipView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EAAB86317BCC6FF00A06CDE /* JDDateCountdownFlipView.m */; };
+		5EAAB86F17BCCABF00A06CDE /* JDFlipNumberViewImageFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EAAB86A17BCC6FF00A06CDE /* JDFlipNumberViewImageFactory.m */; };
+		5EAAB87017BCCAC300A06CDE /* JDFlipNumberDigitView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EAAB86517BCC6FF00A06CDE /* JDFlipNumberDigitView.m */; };
+		5EAAB87A17BCCDEA00A06CDE /* JDFlipNumberView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 5EAAB86617BCC6FF00A06CDE /* JDFlipNumberView.bundle */; };
+		5EAAB87C17BD312100A06CDE /* Build Codes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5EAAB87B17BD312100A06CDE /* Build Codes.plist */; };
 		5EBE8DC116AAAB7400F546EF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EBE8DC016AAAB7400F546EF /* UIKit.framework */; };
 		5EBE8DC316AAAB7400F546EF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EBE8DC216AAAB7400F546EF /* Foundation.framework */; };
 		5EBE8DC516AAAB7400F546EF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EBE8DC416AAAB7400F546EF /* CoreGraphics.framework */; };
@@ -21,6 +41,32 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		33020745184AA402000ABAA1 /* PSADateVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSADateVC.h; sourceTree = "<group>"; };
+		33020746184AA403000ABAA1 /* PSADateVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PSADateVC.m; sourceTree = "<group>"; };
+		33020748184AA534000ABAA1 /* Consts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Consts.h; sourceTree = "<group>"; };
+		5E8E855F16AB046B00C05FD5 /* citroen-logo-140x105.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "citroen-logo-140x105.jpg"; sourceTree = "<group>"; };
+		5E8E856016AB046B00C05FD5 /* citroen-logo-441x336.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "citroen-logo-441x336.jpg"; sourceTree = "<group>"; };
+		5E8E856116AB046B00C05FD5 /* citroen_logo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = citroen_logo.jpeg; sourceTree = "<group>"; };
+		5E8E856216AB046B00C05FD5 /* citroen_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = citroen_logo.png; sourceTree = "<group>"; };
+		5E8E856316AB046B00C05FD5 /* citroen_logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = citroen_logo2.png; sourceTree = "<group>"; };
+		5E8E856416AB046B00C05FD5 /* citroen_old_logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = citroen_old_logo.jpg; sourceTree = "<group>"; };
+		5E8E856516AB046B00C05FD5 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		5E8E856616AB046B00C05FD5 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		5E8E856716AB046B00C05FD5 /* logo-peugeot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo-peugeot.jpg"; sourceTree = "<group>"; };
+		5E8E856816AB046B00C05FD5 /* Peugeot_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Peugeot_logo.png; sourceTree = "<group>"; };
+		5E8E857416AB04EE00C05FD5 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		5E8E857616AB052100C05FD5 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		5EAAB86217BCC6FF00A06CDE /* JDDateCountdownFlipView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDDateCountdownFlipView.h; sourceTree = "<group>"; };
+		5EAAB86317BCC6FF00A06CDE /* JDDateCountdownFlipView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDDateCountdownFlipView.m; sourceTree = "<group>"; };
+		5EAAB86417BCC6FF00A06CDE /* JDFlipNumberDigitView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDFlipNumberDigitView.h; sourceTree = "<group>"; };
+		5EAAB86517BCC6FF00A06CDE /* JDFlipNumberDigitView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDFlipNumberDigitView.m; sourceTree = "<group>"; };
+		5EAAB86617BCC6FF00A06CDE /* JDFlipNumberView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = JDFlipNumberView.bundle; sourceTree = "<group>"; };
+		5EAAB86717BCC6FF00A06CDE /* JDFlipNumberView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDFlipNumberView.h; sourceTree = "<group>"; };
+		5EAAB86817BCC6FF00A06CDE /* JDFlipNumberView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDFlipNumberView.m; sourceTree = "<group>"; };
+		5EAAB86917BCC6FF00A06CDE /* JDFlipNumberViewImageFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDFlipNumberViewImageFactory.h; sourceTree = "<group>"; };
+		5EAAB86A17BCC6FF00A06CDE /* JDFlipNumberViewImageFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDFlipNumberViewImageFactory.m; sourceTree = "<group>"; };
+		5EAAB86B17BCC91600A06CDE /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		5EAAB87B17BD312100A06CDE /* Build Codes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Build Codes.plist"; sourceTree = "<group>"; };
 		5EBE8DBC16AAAB7400F546EF /* PSA Build Code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PSA Build Code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EBE8DC016AAAB7400F546EF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5EBE8DC216AAAB7400F546EF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -44,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EAAB86C17BCC91600A06CDE /* QuartzCore.framework in Frameworks */,
 				5EBE8DC116AAAB7400F546EF /* UIKit.framework in Frameworks */,
 				5EBE8DC316AAAB7400F546EF /* Foundation.framework in Frameworks */,
 				5EBE8DC516AAAB7400F546EF /* CoreGraphics.framework in Frameworks */,
@@ -53,9 +100,47 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5E8E855E16AB046B00C05FD5 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				5E8E855F16AB046B00C05FD5 /* citroen-logo-140x105.jpg */,
+				5E8E856016AB046B00C05FD5 /* citroen-logo-441x336.jpg */,
+				5E8E856116AB046B00C05FD5 /* citroen_logo.jpeg */,
+				5E8E856216AB046B00C05FD5 /* citroen_logo.png */,
+				5E8E856316AB046B00C05FD5 /* citroen_logo2.png */,
+				5E8E856416AB046B00C05FD5 /* citroen_old_logo.jpg */,
+				5E8E856516AB046B00C05FD5 /* icon.png */,
+				5E8E856616AB046B00C05FD5 /* icon@2x.png */,
+				5E8E856716AB046B00C05FD5 /* logo-peugeot.jpg */,
+				5E8E856816AB046B00C05FD5 /* Peugeot_logo.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		5EAAB86117BCC6CE00A06CDE /* JDFlipNumberView */ = {
+			isa = PBXGroup;
+			children = (
+				5EAAB86217BCC6FF00A06CDE /* JDDateCountdownFlipView.h */,
+				5EAAB86317BCC6FF00A06CDE /* JDDateCountdownFlipView.m */,
+				5EAAB86417BCC6FF00A06CDE /* JDFlipNumberDigitView.h */,
+				5EAAB86517BCC6FF00A06CDE /* JDFlipNumberDigitView.m */,
+				5EAAB86617BCC6FF00A06CDE /* JDFlipNumberView.bundle */,
+				5EAAB86717BCC6FF00A06CDE /* JDFlipNumberView.h */,
+				5EAAB86817BCC6FF00A06CDE /* JDFlipNumberView.m */,
+				5EAAB86917BCC6FF00A06CDE /* JDFlipNumberViewImageFactory.h */,
+				5EAAB86A17BCC6FF00A06CDE /* JDFlipNumberViewImageFactory.m */,
+			);
+			name = JDFlipNumberView;
+			path = Images;
+			sourceTree = "<group>";
+		};
 		5EBE8DB116AAAB7400F546EF = {
 			isa = PBXGroup;
 			children = (
+				5EAAB86117BCC6CE00A06CDE /* JDFlipNumberView */,
+				5E8E857616AB052100C05FD5 /* icon@2x.png */,
+				5E8E857416AB04EE00C05FD5 /* icon.png */,
+				5E8E855E16AB046B00C05FD5 /* Images */,
 				5EBE8DC616AAAB7400F546EF /* PSA Build Code */,
 				5EBE8DBF16AAAB7400F546EF /* Frameworks */,
 				5EBE8DBD16AAAB7400F546EF /* Products */,
@@ -73,6 +158,7 @@
 		5EBE8DBF16AAAB7400F546EF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5EAAB86B17BCC91600A06CDE /* QuartzCore.framework */,
 				5EBE8DC016AAAB7400F546EF /* UIKit.framework */,
 				5EBE8DC216AAAB7400F546EF /* Foundation.framework */,
 				5EBE8DC416AAAB7400F546EF /* CoreGraphics.framework */,
@@ -83,11 +169,15 @@
 		5EBE8DC616AAAB7400F546EF /* PSA Build Code */ = {
 			isa = PBXGroup;
 			children = (
+				33020748184AA534000ABAA1 /* Consts.h */,
 				5EBE8DCF16AAAB7400F546EF /* PSAAppDelegate.h */,
+				5EAAB87B17BD312100A06CDE /* Build Codes.plist */,
 				5EBE8DD016AAAB7400F546EF /* PSAAppDelegate.m */,
 				5EBE8DD816AAAB7400F546EF /* MainStoryboard.storyboard */,
 				5EBE8DDB16AAAB7400F546EF /* PSAViewController.h */,
 				5EBE8DDC16AAAB7400F546EF /* PSAViewController.m */,
+				33020745184AA402000ABAA1 /* PSADateVC.h */,
+				33020746184AA403000ABAA1 /* PSADateVC.m */,
 				5EBE8DC716AAAB7400F546EF /* Supporting Files */,
 			);
 			path = "PSA Build Code";
@@ -160,10 +250,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EBE8DCB16AAAB7400F546EF /* InfoPlist.strings in Resources */,
+				5EAAB87A17BCCDEA00A06CDE /* JDFlipNumberView.bundle in Resources */,
 				5EBE8DD316AAAB7400F546EF /* Default.png in Resources */,
 				5EBE8DD516AAAB7400F546EF /* Default@2x.png in Resources */,
 				5EBE8DD716AAAB7400F546EF /* Default-568h@2x.png in Resources */,
 				5EBE8DDA16AAAB7400F546EF /* MainStoryboard.storyboard in Resources */,
+				5E8E856916AB046B00C05FD5 /* citroen-logo-140x105.jpg in Resources */,
+				5E8E856A16AB046B00C05FD5 /* citroen-logo-441x336.jpg in Resources */,
+				5E8E856B16AB046B00C05FD5 /* citroen_logo.jpeg in Resources */,
+				5E8E856C16AB046B00C05FD5 /* citroen_logo.png in Resources */,
+				5E8E856D16AB046B00C05FD5 /* citroen_logo2.png in Resources */,
+				5E8E856E16AB046B00C05FD5 /* citroen_old_logo.jpg in Resources */,
+				5E8E856F16AB046B00C05FD5 /* icon.png in Resources */,
+				5E8E857016AB046B00C05FD5 /* icon@2x.png in Resources */,
+				5E8E857116AB046B00C05FD5 /* logo-peugeot.jpg in Resources */,
+				5E8E857216AB046B00C05FD5 /* Peugeot_logo.png in Resources */,
+				5E8E857516AB04EE00C05FD5 /* icon.png in Resources */,
+				5E8E857716AB052100C05FD5 /* icon@2x.png in Resources */,
+				5EAAB87C17BD312100A06CDE /* Build Codes.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,6 +278,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EAAB87017BCCAC300A06CDE /* JDFlipNumberDigitView.m in Sources */,
+				33020747184AA403000ABAA1 /* PSADateVC.m in Sources */,
+				5EAAB86F17BCCABF00A06CDE /* JDFlipNumberViewImageFactory.m in Sources */,
+				5EAAB86E17BCCABB00A06CDE /* JDDateCountdownFlipView.m in Sources */,
+				5EAAB86D17BCCA5700A06CDE /* JDFlipNumberView.m in Sources */,
 				5EBE8DCD16AAAB7400F546EF /* main.m in Sources */,
 				5EBE8DD116AAAB7400F546EF /* PSAAppDelegate.m in Sources */,
 				5EBE8DDD16AAAB7400F546EF /* PSAViewController.m in Sources */,
@@ -292,6 +401,7 @@
 				5EBE8DE216AAAB7400F546EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
